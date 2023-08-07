@@ -16,7 +16,7 @@ Feel free to use it! `<img src="{URL of the logo you'd like to use}">`
 | <img height="35" width=auto src="https://github.com/PhotKosee/icon-storage/assets/114990364/1de74de4-f8bf-426c-9829-e9fc9a7aad97"> | C | `https://user-images.githubusercontent.com/114990364/258919242-1de74de4-f8bf-426c-9829-e9fc9a7aad97.png` |
 | <img height="35" width=auto src="https://github.com/PhotKosee/icon-storage/assets/114990364/323286ca-11c6-4e41-b3a5-33fee9c028bd"> | Java | `https://user-images.githubusercontent.com/114990364/258922146-323286ca-11c6-4e41-b3a5-33fee9c028bd.png` |
 | <img height="35" src="https://github.com/PhotKosee/icon-storage/assets/114990364/45d06105-790c-4bdf-8844-dc4cacfa01a7"> | NodeJS | `https://user-images.githubusercontent.com/114990364/258923342-45d06105-790c-4bdf-8844-dc4cacfa01a7.png` |
-| <img height="35" src="https://github.com/PhotKosee/icon-storage/assets/114990364/fe5e1508-351c-49b4-9195-031d2145cfe0"> | Python | `https://user-images.githubusercontent.com/114990364/258923342-45d06105-790c-4bdf-8844-dc4cacfa01a7.png` |
+| <img height="35" src="https://github.com/PhotKosee/icon-storage/assets/114990364/fe5e1508-351c-49b4-9195-031d2145cfe0"> | Python | `https://user-images.githubusercontent.com/114990364/258930506-fe5e1508-351c-49b4-9195-031d2145cfe0.png` |
 
 ### Framework
 | Brands Logo/Icon | Name | URL |
@@ -33,6 +33,7 @@ Feel free to use it! `<img src="{URL of the logo you'd like to use}">`
 ### Version Control
 | Brands Logo/Icon | Name | URL |
 | :-: | :-: | - |
+| <img height="35" width=auto src="https://github.com/PhotKosee/icon-storage/assets/114990364/a25e3d56-a08a-4489-b9e9-d0989864f55b"> | Git | `https://user-images.githubusercontent.com/114990364/258942684-a25e3d56-a08a-4489-b9e9-d0989864f55b.png` |
 | <img height="35" width=auto src="https://github.com/PhotKosee/icon-storage/assets/114990364/4eaaa4e2-474b-4c1a-8753-231154d257eb"> | GitHub | `https://user-images.githubusercontent.com/114990364/258921815-4eaaa4e2-474b-4c1a-8753-231154d257eb.png` |
 | <img height="35" width=auto src="https://github.com/PhotKosee/icon-storage/assets/114990364/01dd905d-0b45-4bfb-bb71-01d7852c392d"> | GitLab | `https://user-images.githubusercontent.com/114990364/258922055-01dd905d-0b45-4bfb-bb71-01d7852c392d.png` |
 
